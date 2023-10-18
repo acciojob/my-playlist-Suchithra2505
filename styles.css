@@ -2,6 +2,10 @@
 body{
 	background-color: rgb(204, 204, 204)
 }
+li{
+	list-style-type: none;
+	
+}
 a {
   text-decoration-line: none
 }
