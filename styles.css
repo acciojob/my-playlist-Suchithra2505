@@ -5,13 +5,17 @@ body{
 a {
   text-decoration-line: none
 }
-#myDiv{
+.player_one{
 	background-color: rgb(255, 255, 255);
 	padding; border-radius
 }
 #h{
 	text-align: center
 }
+ul{
+	
+}
+
 #h1{
 	text-align: center
 }
