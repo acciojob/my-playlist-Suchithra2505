@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+body{
+	background-color: rgb(204, 204, 204)
+}
+a {
+  text-decoration-line: none
+}
+#myDiv{
+	background-color: rgb(255, 255, 255);
+	padding; border-radius
+}
+#h{
+	text-align: center
+}
+#h1{
+	text-align: center
+}
+.myDiv{
+	background-color: rgb(255, 255, 255); 
+	padding; border-radius
+}
